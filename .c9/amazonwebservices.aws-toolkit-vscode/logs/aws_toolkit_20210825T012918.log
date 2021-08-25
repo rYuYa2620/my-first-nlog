@@ -1,0 +1,43 @@
+2021-08-25 01:29:18 [ERROR]: log level: info
+2021-08-25 01:29:18 [INFO]: Retrieving AWS endpoint data
+2021-08-25 01:29:18 [INFO]: OS:  Linux x64 5.4.0-1055-aws
+2021-08-25 01:29:18 [INFO]: AWS Cloud9 Extension Host Version:  1.42.0AWS Toolkit Version:  1.27.0-6c4644db65c7
+2021-08-25 01:31:38 [ERROR]: Error getting AccountId: [ExpiredToken: The security token included in the request is expired
+	at constructor.m (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:44:9005)
+	at constructor.callListeners (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:22254)
+	at constructor.emit (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:21963)
+	at constructor.emitEvent (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:7927)
+	at constructor.e (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:3513)
+	at B.runTo (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:57:1736)
+	at /opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:57:1948
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:3724)
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:7982)
+	at constructor.callListeners (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:22358)
+	at constructor.emit (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:21963)
+	at constructor.emitEvent (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:7927)
+	at constructor.e (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:3513)
+	at B.runTo (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:57:1736)
+	at /opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:57:1948
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:3724)
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:7982)
+	at constructor.callListeners (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:22358)
+	at e (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:45:22139)
+	at IncomingMessage.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:40:6016189)
+	at IncomingMessage.emit (events.js:326:22)
+	at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+	at endReadableNT (_stream_readable.js:1241:12)
+	at processTicksAndRejections (internal/process/task_queues.js:84:21)] {
+  code: 'ExpiredToken',
+  time: 2021-08-25T01:31:38.821Z,
+  requestId: '3a784f04-b8b5-4549-9254-e1eb564704ac',
+  statusCode: 403,
+  retryable: true
+}
+2021-08-25 01:31:38 [ERROR]: Error trying to connect to AWS with Credentials Provider profile:default. Toolkit will now disconnect from AWS. [Error: Could not determine Account Id for credentials
+	at Od.login (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:1883:566)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async Ve (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:1877:480)
+	at async gp (/opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:1877:997)
+	at async /opt/c9/dependencies/aws-toolkit-vscode/1b236c4bb79003aaa73ec9e75785c63f5eff6ac3d7735eba98627454a59063cc6252a33a010b675b577925df232243d2ddc9296ac4661bf8636eea2cf6e97976/dist/extension.js:2162:427]
+2021-08-25 01:31:38 [WARN]: autoconnect: failed to connect: 'profile:default'
+2021-08-25 01:34:20 [INFO]: Successfully sent a telemetry batch of 10
